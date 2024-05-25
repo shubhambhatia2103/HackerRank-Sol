@@ -1,4 +1,4 @@
-###**[Revising the Select Query-1](https://www.hackerrank.com/challenges/revising-the-select-query)**
+### **[Revising the Select Query-1](https://www.hackerrank.com/challenges/revising-the-select-query)**
 
 
 Query all columns for all American cities in CITY with populations larger than 100,000. The CountryCode for America is USA.
@@ -21,7 +21,7 @@ SELECT * FROM CITY WHERE COUNTRYCODE = 'USA' AND POPULATION > 100000;
 ```
 
 
-###**[Revising the Select Query-2](https://www.hackerrank.com/challenges/revising-the-select-query-2)**
+### **[Revising the Select Query-2](https://www.hackerrank.com/challenges/revising-the-select-query-2)**
 
 Query the names of all American cities in CITY with populations larger than 120,000. The CountryCode for America is USA.
 
