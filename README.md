@@ -10,15 +10,7 @@ Welcome to the [HackerRank](https://www.hackerrank.com/) Solutions repository, w
 
 Special thanks to the [HackerRank](https://www.hackerrank.com/) community for fostering a collaborative learning environment. Additionally, gratitude to fellow contributors and open-source enthusiasts who have helped improve and expand this repository.
 
-## Features
 
-- Organized and well-documented DB2/SQL solutions.
-- Detailed Performance Metrics indicating the time and space complexity, providing insights into the performance of the implemented algorithm.
-- Easy-to-understand code with detailed question overview.
-
-## Usage/Examples
-
-Explore the folders based on the problem and find the solution to the specific problem you're working on. Each solution is self-contained and can be easily integrated into your own projects.
 
 ## Authors
 
