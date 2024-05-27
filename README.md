@@ -1,6 +1,6 @@
-# HackerRank Solutions in DB2/SQL
+# HackerRank Solutions in SQL
 
-Welcome to the [HackerRank](https://www.hackerrank.com/) Solutions repository, where you can find comprehensive solutions to various HackerRank problems implemented in DB2/SQL. Whether you are a beginner or an experienced coder, this repository aims to provide clear and efficient solutions to help you improve your problem-solving skills.
+Welcome to the [HackerRank](https://www.hackerrank.com/) Solutions repository, where you can find comprehensive solutions to various HackerRank problems implemented in SQL. Whether you are a beginner or an experienced coder, this repository aims to provide clear and efficient solutions to help you improve your problem-solving skills.
 
 ## About HackerRank
 
